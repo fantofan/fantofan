@@ -1,6 +1,5 @@
 # Hi I am Fanto, welcome to my page!
 Fun facts about myself:
-- 🤔 *Expereince using Python: 0*
 - 😈 *Interests in Python:* ***∞***
 - 💯 *Fav film: Trainspotting*
 - 🧑‍💻 *Visit my [linkedin](www.linkedin.com/in/yu-fan-fanto)*
